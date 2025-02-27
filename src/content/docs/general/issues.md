@@ -37,10 +37,10 @@ Below are some existing issues that are currently being worked on:
 
 **Q: How do I change my keychip to save my gameplay on leaderboards?**
 
-> KanadeDX uses a placeholder/dummy keychip to make the game boot with basic necessities and not save any play data, so once you have registered for AquaDX (https://aquadx.net/), go to "Setup Connection", confirm, and copy the keychip number listed (should be something like A###-###########, with the hashtags being randomized numbers or letters.)
-> 
+> KanadeDX uses a placeholder/dummy keychip to make the game boot with basic necessities and not save any play data, so once you have registered for AquaDX (<https://aquadx.net/>), go to "Setup Connection", confirm, and copy the keychip number listed (should be something like A###-###########, with the hashtags being randomized numbers or letters.)
+>
 > Then, go back to KanadeDX, click the gear icon, and scroll down to "Keychip" (or SeriID in older versions) and paste your keychip ID there.
-> 
+>
 > DO NOT SHARE YOUR KEYCHIP (or card number) WITH OTHERS! IT IS FOR YOURSELF ONLY AND MAY LEAD TO DAMAGES OR TAMPERED SCORES IF SHARED.
 
 **Q: How do I rotate the game to Portrait orientation for phones?**

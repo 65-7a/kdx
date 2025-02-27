@@ -29,13 +29,13 @@ The game assets are separate from the program itself. After you downloaded the t
 
 ## 3. Game Settings
 
-You can adjust game settings by holding the start ▶️ button on the top right. 
+You can adjust game settings by holding the start ▶️ button on the top right.
 
-**Latency**
+### Latency
 
 - The default input latency is +1 frame, which matches the official cab. If you consistently have more LATE notes than EARLY notes, you can reduce it to 0.
 
-**Network**
+### Network
 
 - KanadeDX by default is connected to the AquaDX network. There is a default keychip included in the build, but accounts registered on that keychip will be hidden from the leaderboard.
 - If you want to see your scores, go to [https://aquadx.net](https://aquadx.net/) and register an account and obtain your keychip in the "Setup Connection" menu. Then, go to settings before entering the game and replace the default keychip with your keychip. Finally, you can click the AIME button to scan your virtual card and this will register your game profile with the server.

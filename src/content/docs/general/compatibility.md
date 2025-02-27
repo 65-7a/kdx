@@ -7,13 +7,13 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 
 ### Requirements
 
-**Minimum**
+#### Minimum
 
 - **OS**: iOS 14.0 / Android 8.0
 - **RAM**: 3GB
 - **Free Storage**: 12GB (No Background Video)
 
-**Recommended**
+#### Recommended
 
 - **OS**: iOS 14.0 / Android 8.0
 - **RAM**: 4GB
@@ -21,7 +21,7 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 
 ### Apple iOS
 
-**Mobile**
+#### Mobile
 
 - ✅ iPhone 16 Pro (2024, A18 Pro, 8GB)
 - ✅ iPhone 15 (2023, A16, 6GB)
@@ -30,7 +30,7 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 - ✅ iPhone X (2017, A11, 3GB)
 - ✅ iPhone 8 Plus (2017, A11, 3GB)
 
-**Tablet**
+#### Tablet
 
 - ✅ iPad Pro M4 (2024, 16GB)
 - ✅ iPad Air M1 (2022, 8GB)
@@ -53,32 +53,32 @@ Here is a list of devices that are compatible with KanadeDX. If you have a devic
 
 ### Android
 
-**Mobile**
+#### Mobile
 
-* ✅ Samsung S25 Ultra (2025, Snapdragon 8 Elite, 12GB)
-* ✅ Samsung S24 (2024, Exynos 2200, 8GB)
-* ✅ Samsung Z Fold6 (2024, Snapdragon 8 Gen 3, 12GB)
-* ✅ Xiaomi Poco X6 Pro (2024, Mediatek 8300 Ultra, 8GB)
-* ✅ Pixel 7a (2023, Tensor G2, 8GB)
-* ✅ Pixel 7 Pro (2022, Tensor G2, 8GB)
-* ✅ Pixel 6 (2021, Tensor, 8GB)
-* ✅ Xiaomi Poco F5 (2023, Snapdragon 7+ Gen 2, 8GB)
-* ✅ Xiaomi Poco F3 (2021, Snapdragon 870, 6GB)
-* ✅ Redmi Note 10 Pro (2021, Snapdragon 732G, 6GB)
-* ✅ Xiaomi Poco M3 (2020, Snapdragon 662, 4GB)
-* ✅ Samsung A71 (2020, Snapdragon 730, 6GB)
-* ✅ Samsung S10e (2019, Snapdragon 855, 6GB)
-* ✅ Huawei P30 Pro (2019, Kirin 980, 6GB)
-* ⚠️ Samsung A35 (2024, Exynos 1380, 6GB)  
+- ✅ Samsung S25 Ultra (2025, Snapdragon 8 Elite, 12GB)
+- ✅ Samsung S24 (2024, Exynos 2200, 8GB)
+- ✅ Samsung Z Fold6 (2024, Snapdragon 8 Gen 3, 12GB)
+- ✅ Xiaomi Poco X6 Pro (2024, Mediatek 8300 Ultra, 8GB)
+- ✅ Pixel 7a (2023, Tensor G2, 8GB)
+- ✅ Pixel 7 Pro (2022, Tensor G2, 8GB)
+- ✅ Pixel 6 (2021, Tensor, 8GB)
+- ✅ Xiaomi Poco F5 (2023, Snapdragon 7+ Gen 2, 8GB)
+- ✅ Xiaomi Poco F3 (2021, Snapdragon 870, 6GB)
+- ✅ Redmi Note 10 Pro (2021, Snapdragon 732G, 6GB)
+- ✅ Xiaomi Poco M3 (2020, Snapdragon 662, 4GB)
+- ✅ Samsung A71 (2020, Snapdragon 730, 6GB)
+- ✅ Samsung S10e (2019, Snapdragon 855, 6GB)
+- ✅ Huawei P30 Pro (2019, Kirin 980, 6GB)
+- ⚠️ Samsung A35 (2024, Exynos 1380, 6GB)  
   ("Does not like note dense charts, FPS drops to like 30")
-* ⚠️ Samsung A05s (2023, Snapdragon 680, 4GB)  
+- ⚠️ Samsung A05s (2023, Snapdragon 680, 4GB)  
   ("Its really laggy")
-* ⚠️ Moto G9 Plus (2020, Snapdragon 730G, 4GB)  
+- ⚠️ Moto G9 Plus (2020, Snapdragon 730G, 4GB)  
   ("Doesn't run well")
-* ⚠️ Realme 6 (2020, Mediatek G90T, 8GB)  
+- ⚠️ Realme 6 (2020, Mediatek G90T, 8GB)  
   ("Some fps drop 25 - 60")
 
-**Tablet**
+#### Tablet
 
 - ✅ OnePlus Pad 2 (2024, Snapdragon 8 Gen 3, 8GB)
 - ✅ Samsung Tab S9 FE+ (2023, Exynos 1380, 6GB)
