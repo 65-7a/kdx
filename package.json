@@ -7,11 +7,16 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "lint": "markdownlint-cli2 '**/*.md' '#node_modules'"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.32.1",
     "astro": "^5.1.5",
     "sharp": "^0.32.5"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.37.4",
+    "markdownlint-cli2": "^0.17.2"
   }
 }
